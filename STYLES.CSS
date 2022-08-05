@@ -1,0 +1,17 @@
+a {
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+  }
+  
+  .footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 5px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+  }
+  
